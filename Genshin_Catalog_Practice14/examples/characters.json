@@ -1,0 +1,5 @@
+{
+  "amber": {"name": "Amber", "title": "Gliding Champion", "vision": "Pyro", "weapon": "Bow", "nation": "Mondstadt", "rarity": 4, "description": "An Outrider of the Knights of Favonius."},
+  "albedo": {"name": "Albedo", "title": "Kreideprinz", "vision": "Geo", "weapon": "Sword", "nation": "Mondstadt", "rarity": 5, "description": "Chief Alchemist of the Knights of Favonius."},
+  "lisa": {"name": "Lisa", "title": "Witch of Purple Rose", "vision": "Electro", "weapon": "Catalyst", "nation": "Mondstadt", "rarity": 4, "description": "Librarian of the Knights of Favonius."}
+}
